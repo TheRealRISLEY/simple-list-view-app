@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">simple-listview-app-risley</string>
+
+<string-array name="services">
+
+    <item>SEND MONEY</item>
+    <item>WITHDRAW CASH</item>
+    <item>BUY AIRTIME</item>
+    <item>LOANS AND SAVINGS</item>
+    <item>LIPA NA MPESA</item>
+    <item>MY ACCOUNT</item>
+
+
+
+</string-array>
+
+
+</resources>
